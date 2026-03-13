@@ -1,0 +1,8 @@
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\Atividade Desenvolvimento de Sistemas\bin\Debug\Atividade Desenvolvimento de Sistemas.exe.config
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\Atividade Desenvolvimento de Sistemas\bin\Debug\Atividade Desenvolvimento de Sistemas.exe
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\Atividade Desenvolvimento de Sistemas\bin\Debug\Atividade Desenvolvimento de Sistemas.pdb
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\Atividade Desenvolvimento de Sistemas\obj\Debug\Atividade Desenvolvimento de Sistemas.csproj.AssemblyReference.cache
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\Atividade Desenvolvimento de Sistemas\obj\Debug\Atividade Desenvolvimento de Sistemas.csproj.CoreCompileInputs.cache
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\Atividade Desenvolvimento de Sistemas\obj\Debug\Atividade Desenvolvimento de Sistemas.exe
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\Atividade Desenvolvimento de Sistemas\obj\Debug\Atividade Desenvolvimento de Sistemas.pdb
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\Atividade Desenvolvimento de Sistemas\obj\Debug\Atividade Desenvolvimento de Sistemas.exe.config

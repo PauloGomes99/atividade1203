@@ -1,0 +1,2 @@
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\atividade2\obj\Debug\atividade2.csproj.AssemblyReference.cache
+C:\Users\lab2081\source\repos\Atividade Desenvolvimento de Sistemas\atividade2\obj\Debug\atividade2.csproj.CoreCompileInputs.cache
